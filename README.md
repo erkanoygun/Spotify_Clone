@@ -1,16 +1,14 @@
-# spotify_clone
+# Spotify Clone Mobile App
 
-A new Flutter project.
+## Spotify mobile app clone with fully responsive design.
 
-## Getting Started
+- State Management<br>
+Provider
+- Package<br>
+flutter_screenutil: ^5.5.3+2<br>
+provider: ^6.0.3<br>
+- Flutter Version<br>
+3.0.4
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/56897548/188316947-55f11106-3832-42d7-83f3-e44e35eeb241.mp4
