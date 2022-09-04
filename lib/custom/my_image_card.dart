@@ -9,7 +9,6 @@ class MyImageCard extends StatelessWidget {
       this.title,
       required this.content,
       required this.cardSizeWidth,
-      /*required this.cardSizeheight,*/
       required this.randomImageUrl,
       required this.cardBodypaddingVerticalValue})
       : super(key: key);
@@ -17,7 +16,6 @@ class MyImageCard extends StatelessWidget {
   final String content;
   final double cardSizeWidth;
   final double cardBodypaddingVerticalValue;
-  //final double cardSizeheight;
   final String randomImageUrl;
   final double titleTextpaddingVerticalValue = 3.0;
 

@@ -14,7 +14,7 @@ class MyListViewBuilder extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return SizedBox(
-      height: MyAppWidgetsStyle.heightSize205,
+      height: MyAppWidgetsStyle.heightSize190,
       child: ListView.builder(
         shrinkWrap: true,
         scrollDirection: Axis.horizontal,

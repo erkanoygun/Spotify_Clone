@@ -9,5 +9,6 @@ abstract class MyAppWidgetsStyle {
   static double heightSize100 = ScreenUtil().setHeight(100);
   static double heightSize95 = ScreenUtil().setHeight(95);
   static double heightSize140 = ScreenUtil().setHeight(140);
+  static double heightSize190 = ScreenUtil().setHeight(190);
   static double heightSize205 = ScreenUtil().setHeight(205);
 }
